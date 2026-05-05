@@ -1,0 +1,90 @@
+1,USA,Ed White;,Gemini IV,1965-06-03T00:00:00.000,0:36,First U.S. EVA. Used HHMU and took  photos.  Gas flow cooling of 25ft umbilical overwhelmed by vehicle ingress work and helmet fogged.  Lost overglove.  Jettisoned thermal gloves and helmet sun visor
+2,USA,David Scott;,Gemini VIII,0:00,HHMU EVA cancelled before starting by stuck on vehicle thruster that ended mission early
+3,USA,Eugene Cernan;,Gemini IX-A,1966-06-05T00:00:00.000,2:07,"Inadequate restraints, stiff 25ft umbilical and high workloads exceeded suit vent loop cooling capacity and caused fogging.  Demo called off of tethered astronaut maneuvering unit"
+4,USA,Mike Collins;,Gemini X,1966-07-19T00:00:00.000,0:50,Standup EVA.  UV photos of stars.  Ended by eye irritation that impaired vision 
+5,USA,Mike Collins;,Gemini X,1966-07-20T00:00:00.000,0:39,Retrieved MMOD experiment from docked Agena.  Used HHMU. Lost camera and retrieved experiment. EVA ended early by unrelated spacecraft problem
+6,USA,Richard Gordon;,Gemini XI,1966-09-13T00:00:00.000,0:44,"Attached tether between Agena and Gemini.  EVA ended early due to fatigue, overheating & eye sweat"
+7,USA,Richard Gordon;,Gemini XI,1966-09-14T00:00:00.000,2:10,Standup EVA.  Took star photos. Agena tether ops
+8,USA,Buzz Aldrin;,Gemini XII,1966-11-12T00:00:00.000,2:29,Standup EVA.  Science tasks.  Took star photos
+9,USA,Buzz Aldrin;,Gemini XII,1966-11-13T00:00:00.000,2:06,Attached tether between Agena and Gemini.  UV photos of stars.  Waist tether and Dutch shoe eval
+10,USA,Buzz Aldrin;,Gemini XII,1966-11-14T00:00:00.000,0:55,Standup EVA.  Jettisoned equipment.  Took photos
+11,USA,David Scott;,Apollo 9,1969-03-06T00:00:00.000,0:47,Standup EVA from crew module.  Retrieved thermal experiment samples
+12,USA,Russ Schweickart;,Apollo 9,1969-03-06T00:00:00.000,0:51,Lunar module based.  Took photos.  Evaluated foot restraint and handrails.  Retrieved thermal experiment samples.  First use of PLSS followed by recharge demo after EVA
+13,USA,Neil Armstrong;Buzz Aldrin;,Apollo 11,1969-07-20T00:00:00.000,2:32,First to walk on the moon.  Some trouble getting out small hatch.  46.3 lb of geologic material collected.  EASEP seismograph and laser reflector exp deployed.  Solar wind exp deployed & retrieved.  400 ft (120m) circuit on foot.  Dust issue post EVA
+14,USA,Neil Armstrong;Buzz Aldrin;,Apollo 11,1969-07-20T00:00:00.000,0:05,Jettison suit backpacks and equip to lighten ascent
+15,USA,Allen Bean;Pete Conrad;,Apollo 12,1969-11-19T00:00:00.000,3:39,Collected 75.6 lb of geologic material.  ALSEP exp deployed.  6000 ft (1800m) circuit on foot
+16,USA,Allen Bean;Pete Conrad;,Apollo 12,1969-11-20T00:00:00.000,3:48,Retrieved parts of Surveyor 3 spacecraft.   
+17,USA,Allen Bean;Pete Conrad;,Apollo 12,1969-11-20T00:00:00.000,0:05,Jettison suit backpacks and equip to lighten ascent
+18,USA,Ed Mitchell;Alan Shepard;,Apollo 14,1971-02-05T00:00:00.000,4:48,Collected 94.4 lb of geologic material.  ALSEP and laser reflector exp deployed.  Hiked up to 0.9 miles (1.5km) from lunar module.  Used MET rickshaw
+19,USA,Ed Mitchell;Alan Shepard;,Apollo 14,1971-02-06T00:00:00.000,4:34,Sought but did not quite reach crater.  Golf demo
+20,USA,Ed Mitchell;Alan Shepard;,Apollo 14,1971-02-06T00:00:00.000,0:05,Jettison suit backpacks and equip to lighten ascent
+21,USA,David Scott;,Apollo 15,1971-07-30T00:00:00.000,0:33,Standup EVA to scout and photograph lunar surface before traverse
+22,USA,David Scott;James Irwin;,Apollo 15,1971-07-31T00:00:00.000,6:34,Collected 169 lb of geologic material.  ALSEP exp deployed.  First use of the lunar rover.  Covered 6.2 mile (10.3 km) circuit
+23,USA,David Scott;James Irwin;,Apollo 15,1971-08-01T00:00:00.000,7:12
+24,USA,David Scott;James Irwin;,Apollo 15,1971-08-02T00:00:00.000,4:49
+25,USA,David Scott;James Irwin;,Apollo 15,1971-08-02T00:00:00.000,0:05,Jettison suit backpacks and equip to lighten ascent
+26,USA,Al Worden;,Apollo 15,1971-08-05T00:00:00.000,0:39,First transearth EVA.  Retrieved 2 camera film cassettes
+27,USA,John Young;Charles Duke;,Apollo 16,1972-04-21T00:00:00.000,7:11,Collected 208 lb of rock/dust (41lb this day). ALSEP & solar wind experiments deployed. Assembled and used lunar rover (4.2 km).  
+28,USA,John Young;Charles Duke;,Apollo 16,1972-04-22T00:00:00.000,7:23,Collected 82 lb of rock/dust. Drove rover 11.5 km
+29,USA,John Young;Charles Duke;,Apollo 16,1972-04-23T00:00:00.000,5:40,Collected 90 lb of rock/dust.  Drove rover 27.1 km
+30,USA,John Young;Charles Duke;,Apollo 16,1972-04-23T00:00:00.000,0:04,Jettison suit backpacks and equip to lighten ascent
+31,USA,Tom Mattingly;,Apollo 16,1972-04-25T00:00:00.000,1:23,Transearth EVA to retrieve camera film and expose microbial response experiment
+32,USA,Harrison Schmidt;Eugene Cernan;;,Apollo 17,1972-12-11T00:00:00.000,7:12,Collected 243 lb of geologic material.  ALSEP exp deployed.   8 seismic explosive charges placed for later use.  Used lunar rover to travel 11.4 miles (19 km) circuit with max range of 4.9 miles from lunar module.
+33,USA,Harrison Schmidt;Eugene Cernan;;,Apollo 17,1972-12-12T00:00:00.000,7:37
+34,USA,Harrison Schmidt;Eugene Cernan;;,Apollo 17,1972-12-13T00:00:00.000,7:16
+35,USA,Harrison Schmidt;Eugene Cernan;;,Apollo 17,1972-12-13T00:00:00.000,0:08,Jettison suit backpacks and equip to lighten ascent
+36,USA,Ron Evans;,Apollo 17,1972-12-17T00:00:00.000,1:07,Transearth EVA to retrieve camera film
+37,USA,Paul Weitz;Joe Kerwin;,Skylab 2,1973-05-25T00:00:00.000,0:40,"Standup EVA.  While based in hatch of just arrived hovering spacecraft, failed to pull/pry free solar panel held by cm wide scrap of MMOD shield"
+USA,Paul Weitz;Joe Kerwin;Pete Conrad;,Skylab 2,1973-05-25T00:00:00.000,"After normal docking failed, all donned suits, depressurized spacecraft, opened forward tunnel hatch and removed the docking probe's back plate to bypass some electrical connections"
+38,USA,Pete Conrad;Joe Kerwin;,Skylab 2,1973-06-07T00:00:00.000,3:25,"Without body restraint, initially unable to attach 25ft pole/cutter jaws to aluminum scrap holding jammed solar panel.  Improvised body restraint with suit tether to unexpected vehicle U bolt for 3 pt stance to enable pole positioning and cut.  After debris cut, attached pole as translation path to solar array.  Rope hooked between airlock solar array cover structure as means to overcome frozen hydraulic damper of solar array hinge.  Both crew stood under rope and pushed until array freed suddenly which caused both crew to drift free until hauled themselves back in via umbilicals.  Hardest task was restowing umbilicals into stow sphere at end of day"
+39,USA,Pete Conrad;Paul Weitz;,Skylab 2,1973-06-19T00:00:00.000,1:36,Retrieved Apollo Telescope Mount film and repaired power module relay with hammer blow.  Cleaned camera lens
+40,USA,Owen Garriott;Jack Lousma;,Skylab 3,1973-08-06T00:00:00.000,6:31,Constructed/deployed twin-pole thermal shield to reduce internal spacecraft temperatures.  Loaded telescope camera with film.  Inspected previously leaking thrusters.  Restored telescope door motion and deployed meteroid sampling exp
+41,USA,Owen Garriott;Jack Lousma;,Skylab 3,1973-08-24T00:00:00.000,4:31,Installed cable for backup gyro package.  Exchanged telescope camera film.  Deployed parasol samples
+42,USA,Owen Garriott;Allen Bean;,Skylab 3,1973-09-22T00:00:00.000,2:41,"Recovered telescope camera film, material samples and meteroid exp.  Cleaned camera lens"
+43,USA,Ed Gibson;Bill Pogue;,Skylab 4,1973-11-22T00:00:00.000,6:33,Photographed earth atmosphere.  Deployed spacecraft contamination measurement exp.  Reloaded telescope camera film.  Repaired microwave sensor antenna.  Pinned open telescope door.  Retrieved meteroid sample collector
+44,USA,Gerald Carr;Bill Pogue;,Skylab 4,1973-12-25T00:00:00.000,7:01,"Photographed comet Kohoutek, reloaded telescope camera film, pinned open failed solar UV exp door.  Installed solar UV/X-Ray camera.  Repositioned jammed filter wheel in x-ray telescope"
+45,USA,Gerald Carr;Ed Gibson;,Skylab 4,1973-12-29T00:00:00.000,3:29,Photographed comet Kohoutek.  Retrieved sample of meteroid protection cover
+46,USA,Gerald Carr;Ed Gibson;,Skylab 4,1974-02-03T00:00:00.000,5:19,Retrieved telescope camera film and installed meteroid collection experiment. Gibson reported coolant leakage from EVA life support system
+USA,Bill Lenoir;Joe Allen;,STS-5,1982-11-14T00:00:00.000,0:00,Suit fan and O2 regulator failures prevented first Shuttle EVA.  No spare suit onboard
+47,USA,Story Musgrave;Don Peterson;,STS-6,1983-04-07T00:00:00.000,4:17,First shuttle EVA.  New suits tested.  Basic orbiter/payload contingency tasks practiced.  Winch failed to retract
+48,USA,Bob Stewart;Bruce McCandless;,STS-41B,1984-02-07T00:00:00.000,5:56,Practiced Solar Max repair. Used MMU and MFR for first time.  PLB camera D changed out.  Slidewire bracket pip-pin pulled free by crew tether inadvertantly.  SPAS switch adjusted
+49,USA,Bob Stewart;Bruce McCandless;,STS-41B,1984-02-09T00:00:00.000,6:09,Practiced MMU docking with fixed target.  Simple satellite refueling demo (freon).  Foot restraint lost overboard and recovered.  
+50,USA,James Van Hoften;George Nelson;,STS-41C,1984-04-08T00:00:00.000,2:53,Failed to dock MMU to Solar Max satellite due to thermal grommet interference.  Manual grasp of solar array increased satellite instability 
+51,USA,James Van Hoften;George Nelson;,STS-41C,1984-04-11T00:00:00.000,7:05,"After ground cmd stabilization and RMS grapple, Solar Max repaired (attitude control and main elec boxes replaced, MEB not designed for replacement).  Small trash bag lost due to inadvertment release of MWS lock.  MMU engineering test performed"
+52,USA,Dave Leestma;Kathy Sullivan;,STS-41G,1984-10-11T00:00:00.000,3:29,First U.S. female EVA.  Demonstrated hydrazine refueling.  Aligned gimbals of Ku antenna  for IV commanded locking.  SIRB latching assisted.  Recovered lost airlock valve cap.  
+53,USA,Joe Allen;Dale Gardner;,STS-51A,1984-11-12T00:00:00.000,6:02,PALAPA retrieval.  MMU used.  Had to use manual satellite restraint when structure with RMS grapple fixture failed to attach due to unexpected structure on satellite.
+54,USA,Joe Allen;Dale Gardner;,STS-51A,1984-11-14T00:00:00.000,5:48,WESTAR retrieval.  MMU used.  Recovered untethered torque wrench (twice) and draeger tube (once).  Lost power tool
+55,USA,Dave Griggs;Jeff Hoffman;,STS-51D,1985-04-16T00:00:00.000,3:10,"""Flyswatter"" attached to end of RMS to attempt to activate LEASAT/SYNCOM IV sequence start lever.  Lever tripped but satellite was actually failed elsewhere.  Griggs inadvertently went out over wing"
+56,USA,James Van Hoften;Bill Fisher;,STS-51I,1985-08-31T00:00:00.000,7:09,LEASAT/SYNCOM IV repairs started.  RMS failure to single joint mode forced second EVA.  Lost power tool overboard.
+57,USA,James Van Hoften;Bill Fisher;,STS-51I,1985-09-01T00:00:00.000,4:29,LEASAT/SYNCOM IV repairs completed.  Accidently reused depleted LiOH cans from 1st EVA.
+58,USA,Jerry Ross;Woody Spring;,STS-61B,1985-11-29T00:00:00.000,5:38,EASE/ACCESS truss assembly and stowage demos.  Deployed radar target
+59,USA,Jerry Ross;Woody Spring;,STS-61B,1985-12-01T00:00:00.000,6:48,"EASE/ACCESS truss assembly, stowage and handling demos.  Simulated cable routing with rope reel and heat pipe handling with free EASE beams."
+USA,Bruce McCandless;Kathy Sullivan;,STS-31,1990-04-24T00:00:00.000,0:00,In suits in airlock at 5psi awaiting GO to manually deploy stuck solar array.  Waived off when auto sys worked
+60,USA,Jerry Ross;Jay Apt;,STS-37,1991-04-07T00:00:00.000,4:26,"Freed stuck GRO high gain antenna. Started Space Station demos (recorded crew loads, variable tension rope translation, dogbone handrails)."
+61,USA,Jerry Ross;Jay Apt;,STS-37,1991-04-08T00:00:00.000,6:00,"More Space Station demos (evals of 3 different carts and a tether shuttle, RMS translation rates and loads).  Time short for all RMS/EVA tests"
+62,USA,Pierre Thuot;Rick Hieb;,STS-49,1992-05-10T00:00:00.000,3:43,Capture bar/grapple fixture attach failed 3 times
+63,USA,Pierre Thuot;Rick Hieb;,STS-49,1992-05-11T00:00:00.000,5:30,"Though more careful to induce less loads, capture bar/grapple fixture attach failed 5 times"
+64,USA,Thuot;Hieb;Akers;,STS-49,1992-05-13T00:00:00.000,8:29,3 man EVA.  Manually capture/repair INTELSAT
+65,USA,Tom Akers;Kathy Thornton;,STS-49,1992-05-14T00:00:00.000,7:44,"ASEM Space Station assembly demos (module to truss mating, updated HHMU self rescue device).  Aligned gimbals of Ku antenna for IV commanded locking "
+66,USA,Greg Harbaugh;Mario Runco;,STS-54,1993-01-17T00:00:00.000,4:28,Evaluate training vs. flight differences (DTO 1210).   Encumbered translations.  Foot restraint ingress.  Inspected/avoided misfired IUS tilt table superzip.  Almost lost untethered IUS tilt table equipment.
+67,USA,David Low;Jeff Wisoff;,STS-57,1993-06-25T00:00:00.000,5:50,"First egress/ingress involving tunnel adapter.  Pushed on 2 EURECA antennas to aid stowage.  Evaluated training vs. flight differences (DTO 1210, large mass handling from RMS, high torque bolts, ORU fine align from RMS with active orbiter jets)  "
+68,USA,Carl Walz;Jim Newman;,STS-51 ,1993-09-16T00:00:00.000,7:05,Evaluate training vs. flight differences (DTO 1210).  Evaluated HST servicing mission tools.  Tool box door jammed temporarily preventing closure
+69,USA,Story Musgrave;Jeff Hoffman;,STS-61 /    HST-1,1993-12-04T00:00:00.000,7:54,"HST servicing (RSU, ECU, solar array prep).  RSU bay doors difficult to close."
+70,USA,Tom Akers;Kathy Thornton;,STS-61 /    HST-1,1993-12-05T00:00:00.000,6:36,HST servicing (2 solar arrays).   One jettisoned due to pre-EVA damage
+71,USA,Story Musgrave;Jeff Hoffman;,STS-61 /    HST-1,1993-12-06T00:00:00.000,6:47,HST servicing (WFPC 1/2)
+72,USA,Tom Akers;Kathy Thornton;,STS-61 /    HST-1,1993-12-07T00:00:00.000,6:50,HST servicing (HSP/COSTAR)
+73,USA,Story Musgrave;Jeff Hoffman;,STS-61 /    HST-1,1993-12-08T00:00:00.000,7:21,"HST servicing (SADE, magnetometers, GHRS)"
+74,USA,Mark Lee;Carl Meade;,STS-64 ,1994-09-16T00:00:00.000,6:51,"SAFER self rescue demo, test new tools"
+75,USA,Mike Foale;Bernard Harris;,STS-63,1995-02-09T00:00:00.000,4:39,"Cold environment eval, large object handling eval using SPARTAN (EDFT-01)"
+76,USA,Jim Voss;Mike Gernhardt;,STS-69,1995-09-16T00:00:00.000,6:46,ISS task board with worksite interface samples.  Elec cuff checklist demo.  Thermal cube experiment
+77,USA,Leroy Chiao;Dan Barry;,STS-72,6:09,ISS umbilical tests with robotically transported portable work platform.  Elec cuff checklist demo.  
+78,USA,Leroy Chiao;Winston Scott;,6:53,"ISS thermal comfort test, cable tray test, APFR load test.  Thermal cube experiment"
+79,USA,Linda Godwin;Rich Clifford;,STS-76,6:03,Deploy 4 MEEP materials experiments on Mir docking module.  Test US/Russian tether and PFR.  Retrieve camera from docking module exterior
+USA,Tom Jones;Tammy Jernigan;,STS-80,0:00,Loose screw jammed in hatch latch actuator prevented airlock egress
+80,USA,Mark Lee;Steve Smith;,STS-82 /      HST-2,6:42,"HST servicing (first STS external airlock sortie, depress gas flow disturbed HST solar arrays, remove/install GHRS/STIS, FOS/NICMOS )"
+81,USA,Greg Harbaugh;Joe Tanner;,STS-82 /      HST-2,7:27,"HST servicing (remove/install FGS-1/FGS-1R, replace ESTR-2, install OCE enhancement kit)"
+82,USA,Mark Lee;Steve Smith;,STS-82 /      HST-2,7:11,"HST servicing (remove/install DUI-2/DIU-2R, ESTR-1/SSR, replace RWA)"
+83,USA,Greg Harbaugh;Joe Tanner;,STS-82 /      HST-2,6:34,"HST servicing (replace SADE, install MSS cover, retrieve degraded MLI sample, install MLI patches)"
+84,USA,Mark Lee;Steve Smith;,STS-82 /      HST-2,5:17,HST servicing (unscheduled EVA to add protective covers over degrading aluminized insulation)
+85,USA,Scott Parazynski;Vladimir Titov;,STS-86,5:01,Retrieve 4 MEEP materials experiments on Mir docking module.  Test US/Russian tethers and PFR.  US safety tether would not retract.  Deploy Spektr solar array base sealing cap on docking module. 
+86,USA,Winston Scott;Takao Doi;,STS-87,1997-11-24T00:00:00.000,7:43,Manual capture and berthing (with RMS aid) of Spartan.  Test of ISS crane with large battery/carrier.  Test of ISS power tool and torque multiplier
