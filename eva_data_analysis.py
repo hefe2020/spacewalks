@@ -1,3 +1,10 @@
+
+import datetime as dt
+import csv
+import matplotlib.pyplot as plt
+import json
+
+
 # https://data.nasa.gov/resource/eva.json (with modifications)
 input_file = open('./eva-data.json', 'r', encoding='ascii')
 
@@ -7,7 +14,7 @@ graph_file = './cumulative_eva_graph.png'
 fieldnames = ("EVA #", "Country", "Crew    ", "Vehicle", "Date", "Duration", "Purpose")
 
 data=[]
-import json
+
 
 for i in range(375):
     line=input_file.readline()
@@ -15,17 +22,16 @@ for i in range(375):
     data.append(json.loads(line[1:-1]))
 #data.pop(0)
 ## Comment out this bit if you don't want the spreadsheet
-import csv
+
 
 csv_writer=csv.writer(output_file)
 
-import datetime as dt
 
 time = []
 date =[]
 
 j=0
-for i in data:
+for _ in data:
     print(data[j])
     # and this bit
     csv_writer.writerow(data[j].values())
@@ -52,7 +58,7 @@ for i in time:
 
 date,time = zip(*sorted(zip(date, time)))
 
-import matplotlib.pyplot as plt
+
 
 plt.plot(date,duration_dt[1:], 'ko-')
 plt.xlabel('Year')
