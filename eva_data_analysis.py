@@ -11,12 +11,12 @@ input_file = open('./eva-data.json', 'r', encoding='ascii')
 output_file = open('./eva-data.csv','w', encoding='utf-8')
 graph_file = './cumulative_eva_graph.png'
 
-fieldnames = ("EVA #", "Country", "Crew    ", "Vehicle", "Date", "Duration", "Purpose")
+
 
 data=[]
 
 
-for i in range(375):
+for _ in range(375):
     line=input_file.readline()
     print(line)
     data.append(json.loads(line[1:-1]))
