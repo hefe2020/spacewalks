@@ -1,12 +1,25 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+import sys
 
 
 # Data source: https://data.nasa.gov/resource/eva.json (with modifications)
-input_file = open('./eva-data.json', 'r', encoding='ascii')
-output_file = open('./eva-data.csv', 'w', encoding='utf-8')
-graph_file = './cumulative_eva_graph.png'
+
+
+def main(input_file, output_file, graph_file):
+    print("--START--")
+
+    # Read the data from JSON file
+    eva_data = read_json_to_dataframe(input_file)
+
+    # Convert and export data to the CSV file
+    write_dataframe_to_csv(eva_data, output_file)
+
+    plot_cumulative_time_in_space(eva_data, graph_file)
+
+    print("--END--")
+
 
 def read_json_to_dataframe(input_file):
     """
@@ -62,7 +75,7 @@ def plot_cumulative_time_in_space(df, graph_file):
     df.sort_values('date', inplace=True)
 
     # convert the duration  column to minutes:hours
-    df['duration_hours'] = df['duration'].str.split(":").apply(lambda x: int(x[0]) + int(x[1])/60)
+    df = add_duration_hours(df)
 
     # A cumulative sum of all the duration hours
     df['cumulative_time'] = df['duration_hours'].cumsum()
@@ -79,15 +92,53 @@ def plot_cumulative_time_in_space(df, graph_file):
     plt.show()
 
 
+def text_to_duration(duration):
+    """
+    Convert a text format duration "HH:MM" to duration in hours
 
-print("--START--")
+    Args:
+        duration (str): The text format duration
 
-# Read the data from JSON file
-eva_data = read_json_to_dataframe(input_file)
+    Returns:
+        duration_hours (float): The duration in hours
+    """
+    hours, minutes = duration.split(":")
+    duration_hours = int(hours) + int(minutes)/6  # there is an intentional bug on this line (should divide by 60 not 6)
+    return duration_hours
 
-# Convert and export data to the CSV file
-write_dataframe_to_csv(eva_data, output_file)
 
-plot_cumulative_time_in_space(eva_data, graph_file)
+def add_duration_hours(df):
+    """
+    Add duration in hours (duration_hours) variable to the dataset
 
-print("--END--")
+    Args:
+        df (pd.DataFrame): The input dataframe.
+
+    Returns:
+        df_copy (pd.DataFrame): A copy of df with the new duration_hours variable added
+    """
+    df_copy = df.copy()
+    df_copy["duration_hours"] = df_copy["duration"].apply(
+        text_to_duration
+    )
+    return df_copy
+
+
+if __name__ == "__main__":
+
+    if len(sys.argv) < 3:
+
+        input_file = open('./Data/eva-data.json', 'r', encoding='ascii')
+        output_file = open('./results/eva-data.csv', 'w', encoding='utf-8')
+        print('Using default input and output filenames')
+    else:
+        input_file = sys.argv[1]
+        output_file = sys.argv[2]
+        print('Using custom inputand output filenames.')
+    
+    graph_file = './results/cumulative_eva_graph.png'
+    main(input_file, output_file, graph_file)
+
+
+
+
