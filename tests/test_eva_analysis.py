@@ -1,5 +1,3 @@
-
-
 import pytest
 from eva_data_analysis import text_to_duration, calculate_crew_size
 
